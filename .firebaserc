@@ -1,0 +1,7 @@
+{
+  "projects": {
+    "Weather app": "weather-app-883c8",
+    "Weather": "weather-app-883c8",
+    "default": "weather-app-883c8"
+  }
+}
